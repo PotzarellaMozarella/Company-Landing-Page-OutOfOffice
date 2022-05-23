@@ -137,6 +137,8 @@ a:active {
   width: 100%;
   min-height: 23rem;
   border-bottom: 0.1rem solid white;
+    position: relative;
+    top: 5rem;
 }
 .content {
   display: block;
