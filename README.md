@@ -1,2 +1,3 @@
 # Company_OutOfOffice
-A landing page created for a company. 
+A responsive landing page created for a company. 
+Used: Flex, @media.
