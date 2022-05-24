@@ -120,7 +120,11 @@ a:active {
     flex-direction: column;
     flex-shrink: 1;
   }
+   .container, .box, .team {
+   position: relative;
+   top: 10rem; 
 
+}
 }
 
 /* main section area */ 
@@ -137,8 +141,7 @@ a:active {
   width: 100%;
   min-height: 23rem;
   border-bottom: 0.1rem solid white;
-    position: relative;
-    top: 5rem;
+  top: 5rem;
 }
 .content {
   display: block;
