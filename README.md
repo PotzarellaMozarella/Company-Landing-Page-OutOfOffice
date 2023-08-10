@@ -1,4 +1,4 @@
-# Out Of Office Landing Page
+# Out Of Office Landing Page 
 
 Welcome to the **Out Of Office** Landing Page project! In this project, we have created a responsive landing page for a fictional company called "Out Of Office." This landing page showcases the company's mission, services, and team members. The design is implemented using Flexbox and responsive design techniques with `@media` queries.
 
